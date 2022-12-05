@@ -1,0 +1,18 @@
+{
+    "batch_size": 20,
+    "ckpt_dir": "/home/ubuntu/MaskCycleGAN-VC/results/mask_cyclegan_vc_MinjungF2_Minjung/ckpts",
+    "epochs_per_save": 1,
+    "gpu_ids": "0",
+    "isTrain": false,
+    "load_epoch": 6172,
+    "model_name": "generator_A2B",
+    "name": "mask_cyclegan_vc_MinjungF2_Minjung",
+    "preprocessed_data_dir": "vcc2018_preprocessed/vcc2018_training",
+    "sample_rate": 22050,
+    "save_dir": "results/outputs/",
+    "seed": 0,
+    "speaker_A_id": "MinjungF2",
+    "speaker_B_id": "Minjung",
+    "start_epoch": 1,
+    "steps_per_print": 1000
+}

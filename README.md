@@ -1,7 +1,8 @@
 # voco-vc
 MaskCycleGAN-VC 모델에서 직접 녹음한 데이터셋을 target화자로 training한 후, test를 진행한 github입니다.\
 epoch 6172번 학습하였으며, 사용한 dataset은 vcc2018에서 확인할 수 있습니다.\
-다음은 [Colab Demo Site](https://colab.research.google.com/drive/1DKZJRPD0zf2bXpPj8mHVPKoAjc7SCff1)입니다.
+다음은 [Colab Demo Site](https://colab.research.google.com/drive/1DKZJRPD0zf2bXpPj8mHVPKoAjc7SCff1)입니다.\
+MaskCycleGAN-VC 모델이 아닌, Soft-VC 모델 Demo Site를 확인하려면 [여기](https://colab.research.google.com/drive/1b24BkXJYFR_lA8s1zniuR2ypuQg8KJng)를 클릭해주세요.
 
 ## Ubuntu 서버에서 모델 Training
 1. 먼저, 가상환경을 만들어줍니다.
